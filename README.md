@@ -1,3 +1,10 @@
+## Visit my Website and Social Media
+- [CodingMSTR](https://codingmstr.com)
+- [YouTube](https://www.youtube.com/@codingmstr)
+- [Instagram](https://www.instagram.com/codingmstr)
+- [Facebook](https://www.facebook.com/procodingmaster)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
